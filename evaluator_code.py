@@ -1,11 +1,4 @@
 import team3
-import team4
-import team71
-import teamx1
-import teamx2
-import team30
-import teamx
-import team30
 ''' 
 
 This is the engine for the Ultimate TicTacToe Tournament. The code in this file is not for reproduction.
